@@ -1,0 +1,4 @@
+# ignore files .tiff
+*.tiff
+*.tif
+*.ovr
