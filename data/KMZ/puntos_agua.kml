@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="puntos_agua" id="puntos_agua">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="Nombre" type="string"></SimpleField>
+	<SimpleField name="UTM_X" type="float"></SimpleField>
+	<SimpleField name="UTM_Y" type="float"></SimpleField>
+	<SimpleField name="capacidad" type="string"></SimpleField>
+	<SimpleField name="Predio" type="string"></SimpleField>
+</Schema>
+<Folder><name>puntos_agua</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Nombre">Piscina 1</SimpleData>
+		<SimpleData name="UTM_X">262968</SimpleData>
+		<SimpleData name="UTM_Y">6438858</SimpleData>
+		<SimpleData name="Predio">Santa Inés</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.5135343025514,-32.1618276201254</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Nombre">Piscina 2</SimpleData>
+		<SimpleData name="UTM_X">263232</SimpleData>
+		<SimpleData name="UTM_Y">6438476</SimpleData>
+		<SimpleData name="Predio">Santa Inés</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.5108315831158,-32.1653261135523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="Nombre">Piscina 3</SimpleData>
+		<SimpleData name="UTM_X">265016</SimpleData>
+		<SimpleData name="UTM_Y">6436957</SimpleData>
+		<SimpleData name="Predio">Santa Inés</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.4923014113944,-32.179390815505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Punto de agua próximo a la entrada</SimpleData>
+		<SimpleData name="UTM_X">274469</SimpleData>
+		<SimpleData name="UTM_Y">6472018</SimpleData>
+		<SimpleData name="Predio">El Mollar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3839136377625,-31.8652892177584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Punto de agua quebrada protegida</SimpleData>
+		<SimpleData name="UTM_X">277541</SimpleData>
+		<SimpleData name="UTM_Y">6465990</SimpleData>
+		<SimpleData name="Predio">El Mollar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.352847659179,-31.9202321229873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Tranque</SimpleData>
+		<SimpleData name="UTM_X">277116</SimpleData>
+		<SimpleData name="UTM_Y">6469032</SimpleData>
+		<SimpleData name="Predio">El Mollar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.3566401146438,-31.8927273509536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque VI</SimpleData>
+		<SimpleData name="UTM_X">295323.2132</SimpleData>
+		<SimpleData name="UTM_Y">6463766.147</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1653632466809,-31.9436246653371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque VII</SimpleData>
+		<SimpleData name="UTM_X">295629.7749</SimpleData>
+		<SimpleData name="UTM_Y">6463522.4866</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1621734400579,-31.9458766214381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque IX</SimpleData>
+		<SimpleData name="UTM_X">296820.1984</SimpleData>
+		<SimpleData name="UTM_Y">6461330.3955</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1500472870764,-31.9658532016734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque XI</SimpleData>
+		<SimpleData name="UTM_X">296805.8817</SimpleData>
+		<SimpleData name="UTM_Y">6461341.9762</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1501962605716,-31.9657462304968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque V</SimpleData>
+		<SimpleData name="UTM_X">296816.4181</SimpleData>
+		<SimpleData name="UTM_Y">6461341.7984</SimpleData>
+		<SimpleData name="capacidad">5m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1500848691533,-31.965749721554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque XII</SimpleData>
+		<SimpleData name="UTM_X">294520.3507</SimpleData>
+		<SimpleData name="UTM_Y">6457435.6018</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1751979954723,-32.0005515628506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque XIII</SimpleData>
+		<SimpleData name="UTM_X">294333.1925</SimpleData>
+		<SimpleData name="UTM_Y">6456807.959</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1773118122806,-32.0061759569882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque IV</SimpleData>
+		<SimpleData name="UTM_X">296207.6989</SimpleData>
+		<SimpleData name="UTM_Y">6460585.913</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1566818161408,-31.9724551236262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque X</SimpleData>
+		<SimpleData name="UTM_X">294910.1616</SimpleData>
+		<SimpleData name="UTM_Y">6462285.9057</SimpleData>
+		<SimpleData name="capacidad">5m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1700442437874,-31.9568950514516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque VIII</SimpleData>
+		<SimpleData name="UTM_X">294891.1881</SimpleData>
+		<SimpleData name="UTM_Y">6462291.0036</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1702437968412,-31.9568456611501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque vivero</SimpleData>
+		<SimpleData name="UTM_X">295789.908</SimpleData>
+		<SimpleData name="UTM_Y">6461900.6656</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1608227317298,-31.9605268865812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque II</SimpleData>
+		<SimpleData name="UTM_X">294710.609</SimpleData>
+		<SimpleData name="UTM_Y">6461799.9968</SimpleData>
+		<SimpleData name="capacidad">5m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1722575638254,-31.9612395993814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque I</SimpleData>
+		<SimpleData name="UTM_X">295088.8977</SimpleData>
+		<SimpleData name="UTM_Y">6464552.9068</SimpleData>
+		<SimpleData name="capacidad">5m3 y 1m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1676740818753,-31.9364894109418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Estanque III</SimpleData>
+		<SimpleData name="UTM_X">294055.6706</SimpleData>
+		<SimpleData name="UTM_Y">6460805.3982</SimpleData>
+		<SimpleData name="capacidad">10m3</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1793953773471,-31.9700874746223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Tranque 02</SimpleData>
+		<SimpleData name="UTM_X">295041.55278</SimpleData>
+		<SimpleData name="UTM_Y">6459778.26159</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.169186633578,-31.9795261485783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Tranque 01</SimpleData>
+		<SimpleData name="UTM_X">296119.882657</SimpleData>
+		<SimpleData name="UTM_Y">6460644.03941</SimpleData>
+		<SimpleData name="Predio">Monte Aranda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1575983250067,-31.9719152980241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#puntos_agua">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="ID">0</SimpleData>
+		<SimpleData name="Nombre">Tranque</SimpleData>
+		<SimpleData name="UTM_X">292828.999934</SimpleData>
+		<SimpleData name="UTM_Y">6498173.99996</SimpleData>
+		<SimpleData name="capacidad">1000m3</SimpleData>
+		<SimpleData name="Predio">La Aguada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1844244420017,-31.6329676149999</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
